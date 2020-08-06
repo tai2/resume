@@ -6,13 +6,13 @@
   "author": "tai2 <hello@tai2.net>",
   "license": "MIT",
   "scripts": {
-      "export:pdf": "resume export resume.pdf",
-      "export:html": "resume export resume.html",
-      "publish": "resume publish",
-      "register": "resume register",
-      "login": "resume login"
+    "export:pdf": "resume export resume.pdf",
+    "export:html": "resume export resume.html",
+    "publish": "resume publish",
+    "register": "resume register",
+    "login": "resume login"
   },
   "dependencies": {
-    "resume-cli": "^1.1.2"
+    "resume-cli": "^1.2.8"
   }
 }
