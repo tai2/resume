@@ -13,6 +13,6 @@
     "login": "resume login"
   },
   "dependencies": {
-    "resume-cli": "^3.0.8"
+    "resume-cli": "^3.7.1"
   }
 }
